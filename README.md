@@ -61,4 +61,6 @@ This table contains transactional data for customer orders.
 - **order_id** – Identifier linking multiple items within the same order  
 - **order_date** – Date the order was placed  
 - **order_time** – Time the order was placed  
-- **item_id** – Foreign key linking to `menu_items.menu_item_id`  
+- **item_id** – Foreign key linking to `menu_items.menu_item_id`
+
+
