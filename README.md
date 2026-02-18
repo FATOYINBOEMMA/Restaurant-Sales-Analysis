@@ -63,7 +63,7 @@ This table contains transactional data for customer orders.
 - **order_time** – Time the order was placed  
 - **item_id** – Foreign key linking to `menu_items.menu_item_id`
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 To ensure accuracy and reliability, the dataset was cleaned and transformed using Power Query:
 
@@ -203,7 +203,7 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 - **Power BI** (Data Modeling, DAX, Dashboard Design)
 
@@ -222,7 +222,7 @@ This analysis demonstrates the ability to:
 
 
 
-- **
+  
 
 
 
