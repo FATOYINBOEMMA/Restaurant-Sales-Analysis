@@ -63,4 +63,171 @@ This table contains transactional data for customer orders.
 - **order_time** – Time the order was placed  
 - **item_id** – Foreign key linking to `menu_items.menu_item_id`
 
+- # 🍽 Restaurant Orders Performance Analysis
+
+##  Project Overview
+
+This project analyzes transactional restaurant order data to evaluate sales performance, customer behavior, and category profitability.  
+The objective is to uncover actionable insights that can help management optimize revenue, improve operational efficiency, and drive strategic decision-making.
+
+---
+
+#  Executive Summary
+
+The restaurant generated **$73.31K in revenue** from **2,427 total orders**, with an average order value of **$30.21**.  
+
+Sales performance is driven primarily by Asian and Italian cuisines, with strong demand during lunch and early evening hours. However, midweek performance and category revenue imbalance present opportunities for growth and optimization.
+
+---
+
+#  Core Business KPIs
+
+- **Total Orders:** 2,427  
+- **Total Revenue:** $73.31K  
+- **Total Items Sold:** 5,542  
+- **Average Order Value (AOV):** $30.21  
+
+---
+
+# Key Insights & Business Recommendations
+
+---
+
+## 1️⃣ Category Performance Analysis
+
+###  Findings
+- Asian cuisine recorded the highest order volume (1,219 orders).
+- Italian cuisine generated the highest revenue contribution (31%).
+- American category contributed the lowest revenue share (18%).
+
+### Insight
+High order volume does not always translate into highest revenue. Italian dishes likely have higher pricing or stronger profit margins.
+
+###  Business Recommendations
+- Promote high-margin Italian dishes through targeted marketing.
+- Bundle Asian bestsellers with drinks to increase order value.
+- Improve positioning and promotion of the American category.
+
+### KPIs to Monitor
+- Revenue by Category
+- Orders by Category
+- Revenue per Order by Category
+- Category Profit Margin %
+
+---
+
+## 2️⃣ Top Performing Menu Items
+
+### Findings
+Top ordered items:
+- Korean Beef Bowl
+- Cheeseburger
+- Edamame
+- Hamburger
+
+### Insight
+A small number of menu items are responsible for a large share of total orders, creating revenue concentration risk.
+
+###  Business Recommendations
+- Introduce cross-selling strategies (e.g., sides + drinks).
+- Promote mid-tier menu items.
+- Introduce limited-time specials to diversify demand.
+
+###  KPIs to Monitor
+- Top 5 Items Revenue Share %
+- Menu Contribution Ratio
+- Sales Growth of Low-Performing Items
+
+---
+
+## 3️⃣ Day-of-Week Performance
+
+###  Findings
+- Monday recorded the highest order volume.
+- Wednesday recorded the lowest performance.
+
+### Insight
+Midweek sales underperformance indicates untapped revenue opportunity.
+
+### Business Recommendations
+- Launch midweek promotions (e.g., Wednesday specials).
+- Introduce loyalty rewards for weekday visits.
+- Run targeted discounts during low-traffic days.
+
+### KPIs to Monitor
+- Revenue by Day of Week
+- Weekday Sales Growth %
+- Promotion Conversion Rate
+
+---
+
+## 4️⃣ Hourly Sales Trends
+
+### Findings
+Sales peak during:
+- Lunch hours (around 12 PM)
+- Early evening (5 PM – 7 PM)
+
+Sales decline significantly after 9 PM.
+
+### Insight
+The restaurant relies heavily on lunch and early dinner traffic for revenue generation.
+
+### Business Recommendations
+- Increase staffing during peak hours.
+- Optimize inventory preparation before peak times.
+- Introduce late-evening offers to boost slower hours.
+
+### KPIs to Monitor
+- Revenue per Hour
+- Orders per Hour
+- Average Service Time
+- Peak Hour Revenue Contribution %
+
+---
+
+# Strategic Opportunities
+
+### Strengths
+- Strong category diversity
+- Healthy Average Order Value
+- Clear peak demand periods
+
+### Opportunities
+- Improve midweek performance
+- Reduce revenue concentration risk
+- Optimize underperforming categories
+
+---
+
+# 🛠 Tools Used
+
+- **Power BI** (Data Modeling, DAX, Dashboard Design)
+- **Excel** (Data Cleaning & Preparation)
+- **Data Visualization & KPI Development**
+
+---
+
+# 📷 Dashboard Preview
+
+![Restaurant Dashboard](dashboard_screenshot.png)
+
+---
+
+# 🚀 Conclusion
+
+This analysis demonstrates the ability to:
+
+- Translate raw data into actionable business insights  
+- Develop performance-driven KPIs  
+- Identify operational and revenue growth opportunities  
+- Communicate findings clearly to support strategic decisions  
+
+
+
+- **
+
+
+
+
 
