@@ -63,22 +63,27 @@ This table contains transactional data for customer orders.
 - **order_time** – Time the order was placed  
 - **item_id** – Foreign key linking to `menu_items.menu_item_id`
 
-- # 🍽 Restaurant Orders Performance Analysis
+# 🧹 Data Cleaning & Preparation
 
-##  Project Overview
+To ensure accuracy and reliability, the dataset was cleaned and transformed using Power Query:
 
-This project analyzes transactional restaurant order data to evaluate sales performance, customer behavior, and category profitability.  
-The objective is to uncover actionable insights that can help management optimize revenue, improve operational efficiency, and drive strategic decision-making.
+- Validated relationships between menu_items and order_details
+- Created calculated columns (Order Month, Day of Week, Hour)
+- Verified revenue calculations
+- Standardized category names
+- Built a structured star schema data model
 
----
+This ensured accurate KPI calculation and performance reporting.
+
 
 #  Executive Summary
 
-The restaurant generated **$73.31K in revenue** from **2,427 total orders**, with an average order value of **$30.21**.  
+The restaurant generated **$73.31K in revenue from 2,427 orders**, with a healthy **Average Order Value of $30.21**.  
 
-Sales performance is driven primarily by Asian and Italian cuisines, with strong demand during lunch and early evening hours. However, midweek performance and category revenue imbalance present opportunities for growth and optimization.
+Revenue concentration is driven primarily by Asian and Italian cuisines, with peak performance during lunch and early evening hours.  
 
----
+However, midweek underperformance and menu revenue imbalance present clear opportunities for strategic growth.
+
 
 #  Core Business KPIs
 
@@ -90,8 +95,6 @@ Sales performance is driven primarily by Asian and Italian cuisines, with strong
 ---
 
 # Key Insights & Business Recommendations
-
----
 
 ## 1️⃣ Category Performance Analysis
 
@@ -203,18 +206,12 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 # 🛠 Tools Used
 
 - **Power BI** (Data Modeling, DAX, Dashboard Design)
-- **Excel** (Data Cleaning & Preparation)
-- **Data Visualization & KPI Development**
-
----
 
 # 📷 Dashboard Preview
 
 ![Restaurant Dashboard](dashboard_screenshot.png)
 
----
-
-# 🚀 Conclusion
+# Conclusion
 
 This analysis demonstrates the ability to:
 
@@ -226,6 +223,7 @@ This analysis demonstrates the ability to:
 
 
 - **
+
 
 
 
