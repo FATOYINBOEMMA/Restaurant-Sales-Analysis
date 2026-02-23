@@ -1,13 +1,13 @@
 # Restaurant-Sales-Analysis
 
-## Project Overview
+### Project Overview
 You are provided with a quarter’s worth of order data from a fictitious restaurant that serves international cuisine. Each order includes details such as the items purchased, order date and time, and information about the menu items.
 
 The restaurant’s management wants to better understand customer ordering behavior, menu performance, and revenue trends in order to make informed, data-driven business decisions.
 
 As a Data Analyst, my task was to analyze the dataset and present key insights and recommendations using a one-page Power BI dashboard that clearly communicates findings in a simple and actionable way.
 
-## Project Objectives
+### Project Objectives
 
 The goal of this project was to apply data analysis and visualization techniques to transform raw restaurant order data into meaningful business insights. By the end of the project, I:
 
@@ -23,7 +23,7 @@ The goal of this project was to apply data analysis and visualization techniques
 
 * Translated analytical findings into clear business insights and recommendations
 
-## Business Questions Addressed
+### Business Questions Addressed
 
 The Power BI dashboard was designed to answer the following key business questions:
 
@@ -42,7 +42,7 @@ This project was created solely for educational and portfolio purposes. The data
 
 This project serves as a capstone project completed after my training period and does not reflect real business data or decisions.
 
-## Dataset Description
+### Dataset Description
 
 The dataset used in this project consists of two tables that capture menu information and customer order details for a fictitious restaurant.
 
@@ -63,7 +63,7 @@ This table contains transactional data for customer orders.
 - **order_time** – Time the order was placed  
 - **item_id** – Foreign key linking to `menu_items.menu_item_id`
 
-# Data Cleaning & Preparation
+### Data Cleaning & Preparation
 
 To ensure accuracy and reliability, the dataset was cleaned and transformed using Power Query:
 
@@ -76,7 +76,7 @@ To ensure accuracy and reliability, the dataset was cleaned and transformed usin
 This ensured accurate KPI calculation and performance reporting.
 
 
-#  Executive Summary
+###  Executive Summary
 
 The restaurant generated **$73.31K in revenue from 2,427 orders**, with a healthy **Average Order Value of $30.21**.  
 
@@ -85,7 +85,7 @@ Revenue concentration is driven primarily by Asian and Italian cuisines, with pe
 However, midweek underperformance and menu revenue imbalance present clear opportunities for strategic growth.
 
 
-#  Core Business KPIs
+###  Core Business KPIs
 
 - **Total Orders:** 2,427  
 - **Total Revenue:** $73.31K  
@@ -94,9 +94,9 @@ However, midweek underperformance and menu revenue imbalance present clear oppor
 
 ---
 
-# Key Insights & Business Recommendations
+### Key Insights & Business Recommendations
 
-## 1️⃣ Category Performance Analysis
+### 1️ Category Performance Analysis
 
 ###  Findings
 - Asian cuisine recorded the highest order volume (1,219 orders).
@@ -119,7 +119,7 @@ High order volume does not always translate into highest revenue. Italian dishes
 
 ---
 
-## 2️⃣ Top Performing Menu Items
+### 2️ Top Performing Menu Items
 
 ### Findings
 Top ordered items:
@@ -143,7 +143,7 @@ A small number of menu items are responsible for a large share of total orders, 
 
 ---
 
-## 3️⃣ Day-of-Week Performance
+### 3️ Day-of-Week Performance
 
 ###  Findings
 - Monday recorded the highest order volume.
@@ -164,7 +164,7 @@ Midweek sales underperformance indicates untapped revenue opportunity.
 
 ---
 
-## 4️⃣ Hourly Sales Trends
+### 4️ Hourly Sales Trends
 
 ### Findings
 Sales peak during:
@@ -189,7 +189,7 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 
 ---
 
-# Strategic Opportunities
+### Strategic Opportunities
 
 ### Strengths
 - Strong category diversity
@@ -203,15 +203,16 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 
 ---
 
-# Tools Used
+### Tools Used
 
 - **Power BI** (Data Modeling, DAX, Dashboard Design)
+- ** power query editor for data cleaning and manipulation
 
-# 📷 Dashboard Preview
+###  Dashboard Preview
 
 ![Restaurant Dashboard](dashboard_screenshot.png)
 
-# Conclusion
+### Conclusion
 
 This analysis demonstrates the ability to:
 
