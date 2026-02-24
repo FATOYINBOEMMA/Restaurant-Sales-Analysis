@@ -102,6 +102,7 @@ However, midweek underperformance and menu revenue imbalance present clear oppor
 - Asian cuisine recorded the highest order volume (1,219 orders).
 - Italian cuisine generated the highest revenue contribution (31%).
 - American category contributed the lowest revenue share (18%).
+- Asian cuisine contributed 30% of total revenue.
 
 ### Insight
 High order volume does not always translate into highest revenue. Italian dishes likely have higher pricing or stronger profit margins.
