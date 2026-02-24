@@ -210,7 +210,7 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 
 ###  Dashboard Preview
 
-dashboard_screenshot.jpeg
+![Dashboard](dashboard_screenshot.jpeg)
 
 ### Conclusion
 
