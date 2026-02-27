@@ -207,7 +207,7 @@ The restaurant relies heavily on lunch and early dinner traffic for revenue gene
 ### Tools Used
 
 - **Power BI** (Data Modeling, DAX, Dashboard Design)
-- ** power query editor for data cleaning and manipulation
+- ** power query editor (for data cleaning and manipulation)
 
 ###  Dashboard Preview
 
